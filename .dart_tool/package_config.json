@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_gk",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-08-01T06:58:12.886410Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.4"
+}

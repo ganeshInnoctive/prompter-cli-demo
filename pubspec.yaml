@@ -1,0 +1,9 @@
+name: prompter_gk
+version: 0.0.1
+description: Library to create simple CLI wizards
+
+author: Ganesh <ganesh@innoctive.com>
+homepage: https://github.com/ganeshInnoctive
+
+environment:
+  sdk: '<3.0.0'
